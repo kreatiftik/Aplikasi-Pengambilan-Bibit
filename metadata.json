@@ -1,0 +1,6 @@
+{
+  "name": "Pendaftaran Bibit DLHP Tuban",
+  "description": "Sistem Pendaftaran dan Validasi NIK Bantuan Bibit Tanaman Gratis Dinas Lingkungan Hidup dan Perhubungan Kabupaten Tuban",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
